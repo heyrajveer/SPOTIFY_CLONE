@@ -1,7 +1,4 @@
-Here's the updated `README.md` for your project named `first_spotify`:
-
----
-
+=
 # First Spotify
 
 This is a simple Spotify clone project built using HTML, CSS, and JavaScript.
